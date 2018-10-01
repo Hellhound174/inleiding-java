@@ -8,7 +8,7 @@ public class Praktijkopdr extends Applet {
 
     public void init() {
         a = 6.9;
-        b = 6.3 ;
+        b = 6.3;
         c = 5.9;
         d = 3;
         uitkomst = (a + b + c) / d;
